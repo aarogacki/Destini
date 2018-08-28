@@ -76,7 +76,6 @@ class ViewController: UIViewController {
         }
     }
     
-
     @IBAction func restartPressed(_ sender: UIButton) {
         restart()
     }
@@ -91,6 +90,5 @@ class ViewController: UIViewController {
         
         topButton.isHidden = false
         bottomButton.isHidden = false
-        
     }
 }
